@@ -1,0 +1,14 @@
+
+.important {
+    color: red;
+    padding-left: 15px;
+    background-color: honeydew;
+}
+body {
+    font-family: "Calibri";
+}
+h1{
+    font-size: 28px;
+    font-family: "Monaco", "Courier", monospace;
+    color: #618ad2;
+}
